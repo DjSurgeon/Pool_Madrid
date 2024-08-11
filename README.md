@@ -9,6 +9,7 @@ A summary of the projects carried out on piscine 42 Madrid on July of 2024.
 ## Índice
 
 1. [Shell00](#Shell00)
+2. [C_00](#C_00)
 
 ### Shell00 <div id='Shell00' />
 ex00 - Z ✅
@@ -22,3 +23,18 @@ ex03 - id_rsa_pub ✅
 ex04 - midLS ✅
 
 ex05 - git_commit.sh ✅
+
+### C_00 <div id='C_00'/>
+ex00 - ft_putchar.c ✅
+
+ex01 - ft_print_alphabet.c ✅
+
+ex02 - ft_print_reverse_alphabet.c ✅
+
+ex03 - ft_print_numbers.c ✅
+
+ex04 - ft_is_negative.c ✅
+
+ex05 - ft_print_comb.c ✅
+
+ex06 - ft_print_comb2.c ✅
