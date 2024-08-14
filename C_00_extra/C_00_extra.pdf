@@ -1,0 +1,69 @@
+Ejercicio 01: Convertir letras minúsculas a mayúsculas (ft_str_to_upper)
+Descripción: Implementa una función que convierta una cadena de caracteres a mayúsculas. La cadena solo contendrá letras en minúsculas.
+Prototipo: void ft_str_to_upper(char *str);
+Restricciones: Solo se pueden usar funciones permitidas. No se pueden usar funciones de la biblioteca estándar como toupper.
+Directorio de entrega: ex01/
+Archivos a entregar: ft_str_to_upper.c
+
+Ejercicio 02: Verificar si una cadena es un número (ft_str_is_numeric)
+Descripción: Crea una función que verifique si una cadena de caracteres solo contiene dígitos (es decir, si es un número).
+Prototipo: int ft_str_is_numeric(char *str);
+Restricciones: No se pueden usar funciones prohibidas ni la función isdigit.
+Directorio de entrega: ex02/
+Archivos a entregar: ft_str_is_numeric.c
+
+Ejercicio 03: Invertir una cadena (ft_str_reverse)
+Descripción: Implementa una función que invierta el contenido de una cadena de caracteres.
+Prototipo: void ft_str_reverse(char *str);
+Restricciones: No se pueden usar funciones prohibidas ni la función strrev.
+Directorio de entrega: ex03/
+Archivos a entregar: ft_str_reverse.c
+
+Ejercicio 04: Contar vocales en una cadena (ft_count_vowels)
+Descripción: Escribe una función que cuente cuántas vocales (a, e, i, o, u) hay en una cadena de caracteres.
+Prototipo: int ft_count_vowels(char *str);
+Restricciones: No se pueden usar funciones prohibidas.
+Directorio de entrega: ex04/
+Archivos a entregar: ft_count_vowels.c
+
+Ejercicio 05: Comparar dos cadenas (ft_strcmp)
+Descripción: Implementa tu propia versión de la función strcmp, que compara dos cadenas de caracteres.
+Prototipo: int ft_strcmp(char *s1, char *s2);
+Restricciones: No se pueden usar funciones prohibidas ni la función strcmp de la biblioteca estándar.
+Directorio de entrega: ex05/
+Archivos a entregar: ft_strcmp.c
+
+Ejercicio 06: Concatenar dos cadenas (ft_strcat)
+Descripción: Escribe una función que concatene dos cadenas. El resultado debe almacenarse en la primera cadena.
+Prototipo: char *ft_strcat(char *dest, char *src);
+Restricciones: No se pueden usar funciones prohibidas ni la función strcat.
+Directorio de entrega: ex06/
+Archivos a entregar: ft_strcat.c
+
+Ejercicio 07: Encontrar la longitud de una cadena (ft_strlen)
+Descripción: Implementa una función que devuelva la longitud de una cadena de caracteres.
+Prototipo: int ft_strlen(char *str);
+Restricciones: No se pueden usar funciones prohibidas ni la función strlen.
+Directorio de entrega: ex07/
+Archivos a entregar: ft_strlen.c
+
+Ejercicio 08: Comprobar si un carácter es alfabético (ft_is_alpha)
+Descripción: Crea una función que verifique si un carácter es una letra del alfabeto (mayúscula o minúscula).
+Prototipo: int ft_is_alpha(char c);
+Restricciones: No se pueden usar funciones prohibidas ni la función isalpha.
+Directorio de entrega: ex08/
+Archivos a entregar: ft_is_alpha.c
+
+Ejercicio 09: Duplicar una cadena (ft_strdup)
+Descripción: Escribe una función que duplique una cadena de caracteres, asignando memoria dinámica para la nueva cadena.
+Prototipo: char *ft_strdup(char *src);
+Restricciones: No se pueden usar funciones prohibidas ni la función strdup.
+Directorio de entrega: ex09/
+Archivos a entregar: ft_strdup.c
+
+Ejercicio 10: Proyecto personal - Generar una tabla de multiplicar
+Descripción: Crea un programa que imprima la tabla de multiplicar del 1 al 9. El resultado debe estar bien formateado en la salida estándar.
+Prototipo: void ft_multiplication_table(void);
+Restricciones: Usa solo funciones permitidas, como ft_putchar y ft_putnbr.
+Directorio de entrega: ex10/
+Archivos a entregar: multiplication_table.c
