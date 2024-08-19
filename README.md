@@ -18,31 +18,31 @@ A summary of the projects carried out on piscine 42 Madrid on July of 2024.
 
 [ex02 - exo.tar](https://github.com/DjSurgeon/Pool_Madrid/tree/main/Shell_00/ex02) ✅
 
-ex03 - id_rsa_pub ✅
+[ex03 - id_rsa_pub](https://github.com/DjSurgeon/Pool_Madrid/tree/main/Shell_00/ex03) ✅
 
-ex04 - midLS ✅
+[ex04 - midLS](https://github.com/DjSurgeon/Pool_Madrid/tree/main/Shell_00/ex04) ✅
 
-ex05 - git_commit.sh ✅
+[ex05 - git_commit.sh](https://github.com/DjSurgeon/Pool_Madrid/tree/main/Shell_00/ex05) ✅
 
-ex06 - git_ignore.sh ✅
+[ex06 - git_ignore.sh](https://github.com/DjSurgeon/Pool_Madrid/tree/main/Shell_00/ex06) ✅
 
-ex07 - b ✅
+[ex07 - b](https://github.com/DjSurgeon/Pool_Madrid/tree/main/Shell_00/ex07) ✅
 
-ex08 - clean ✅
+[ex08 - clean](https://github.com/DjSurgeon/Pool_Madrid/tree/main/Shell_00/ex08) ✅
 
-ex09 - ft_magic ✅
+[ex09 - ft_magic](https://github.com/DjSurgeon/Pool_Madrid/tree/main/Shell_00/ex09) ✅
 
 ### C_00 <div id='C_00'/>
-ex00 - ft_putchar.c ✅
+[ex00 - ft_putchar.c](https://github.com/DjSurgeon/Pool_Madrid/tree/main/C_00/ex00) ✅
 
-ex01 - ft_print_alphabet.c ✅
+[ex01 - ft_print_alphabet.c](https://github.com/DjSurgeon/Pool_Madrid/tree/main/C_00/ex01) ✅
 
-ex02 - ft_print_reverse_alphabet.c ✅
+[ex02 - ft_print_reverse_alphabet.c](https://github.com/DjSurgeon/Pool_Madrid/tree/main/C_00/ex02) ✅
 
-ex03 - ft_print_numbers.c ✅
+[ex03 - ft_print_numbers.c](https://github.com/DjSurgeon/Pool_Madrid/tree/main/C_00/ex03) ✅
 
-ex04 - ft_is_negative.c ✅
+[ex04 - ft_is_negative.c](https://github.com/DjSurgeon/Pool_Madrid/tree/main/C_00/ex04) ✅
 
-ex05 - ft_print_comb.c ✅
+[ex05 - ft_print_comb.c](https://github.com/DjSurgeon/Pool_Madrid/tree/main/C_00/ex05) ✅
 
-#### ex06 - ft_print_comb2.c ✅
+[ex06 - ft_print_comb2.c](https://github.com/DjSurgeon/Pool_Madrid/tree/main/C_00/ex06) ✅
