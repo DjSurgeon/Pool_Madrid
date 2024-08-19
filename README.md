@@ -8,10 +8,11 @@ A summary of the projects carried out on piscine 42 Madrid on July of 2024.
 
 ## Índice
 
-1. [Shell00](#Shell00)
+1. [Shell_00](#Shell_00)
+![Static Badge](https://img.shields.io/badge/Complete_100%25-green)
 2. [C_00](#C_00)
 
-### Shell00 <div id='Shell00' />
+### Shell_00 <div id='Shell_00' />
 [ex00 - Z](https://github.com/DjSurgeon/Pool_Madrid/tree/main/Shell_00/ex00) ✅
 
 [ex01 - testShell00](https://github.com/DjSurgeon/Pool_Madrid/tree/main/Shell_00/ex01) ✅
